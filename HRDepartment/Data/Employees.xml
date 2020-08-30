@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <employee name="Евдокимов Владимир" birth="1983-07-14" email="vl@ukr.net" phone="+380931236543" spec="Программист" pos="middle" salary="2000" expir="2" dep="Компьютерный отдел" photo="emp1.jpg" />
+  <employee name="Касьяненко Павел" birth="" email="" phone="+389675487655" spec="" pos="" salary="" expir="" dep="Компьютерный отдел" photo="emp2.jpg" />
+  <employee name="Коваленко Анна" birth="" email="" phone="+380509874521" spec="" pos="" salary="" expir="" dep="Компьютерный отдел" photo="emp3.jpg" />
+  <employee name="Коваленко Евгений" birth="" email="" phone="+380634387622" spec="" pos="" salary="" expir="" dep="Маркетинговый отдел" photo="emp4.jpg" />
+  <employee name="Чекотько Елена" birth="" email="" phone="+380678475638" spec="" pos="" salary="" expir="" dep="Маркетинговый отдел" photo="emp5.jpg" />
+  <employee name="Гонтарь Марина" birth="" email="" phone="+380953436732" spec="" pos="" salary="" expir="" dep="Маркетинговый отдел" photo="emp6.jpg" />
+  <employee name="Галан Марина" birth="" email="" phone="+380676765554" spec="" pos="" salary="" expir="" dep="Финансовый отдел" photo="emp7.jpg" />
+  <employee name="Забий Леонид" birth="" email="" phone="+380937894322" spec="" pos="" salary="" expir="" dep="Финансовый отдел" photo="emp8.jpg" />
+  <employee name="Рвач Мария" birth="" email="" phone="+380672345567" spec="" pos="" salary="" expir="" dep="Финансовый отдел" photo="emp9.jpg" />
+</root>

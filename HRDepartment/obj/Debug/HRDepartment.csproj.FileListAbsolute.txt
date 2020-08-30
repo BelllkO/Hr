@@ -1,0 +1,11 @@
+D:\JJ\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe.config
+D:\JJ\HRDepartment\HRDepartment\bin\Debug\HRDepartment.exe
+D:\JJ\HRDepartment\HRDepartment\bin\Debug\HRDepartment.pdb
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csprojAssemblyReference.cache
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Form1.resources
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Properties.Resources.resources
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.GenerateResource.cache
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.csproj.CoreCompileInputs.cache
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.exe
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.pdb
+D:\JJ\HRDepartment\HRDepartment\obj\Debug\HRDepartment.Departments.resources
